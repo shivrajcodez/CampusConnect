@@ -5,6 +5,8 @@ Developed as part of the **SPPU Third Year PAT (Project Based Assessment)** inte
 
 🌐 **Live Demo:** [campusconnect-production-45d8.up.railway.app](https://campusconnect-production-45d8.up.railway.app)
 
+currently live demo is not available will start soon
+
 ---
 
 ## 🔐 Demo Credentials
